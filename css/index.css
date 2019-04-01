@@ -289,3 +289,13 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/* About Page CSS */
+
+.about-top-content {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px dashed black;
+}
