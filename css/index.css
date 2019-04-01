@@ -296,6 +296,32 @@ footer nav a {
     display: flex;
     flex-wrap: wrap;
     margin: 20px;
-    padding-bottom: 20px;
+}
+
+.about-middle-content {
+    border-top: 1px dashed black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    
+}
+
+.about-middle-divs {
+    display: flex;
+    flex-wrap: wrap;
+    width: 360px;
+    margin: 30px 20px 20px 20px;
     border-bottom: 1px dashed black;
+}
+
+.about-img-margin {
+    margin-bottom: 15px;
+}
+
+.about-button {
+    margin: 20px 0;
+    padding: 10px 20px;
+    border: 2px solid black;
+    border-radius: 8px;
+    font-size: 20px;
 }
