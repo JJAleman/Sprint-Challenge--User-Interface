@@ -173,7 +173,8 @@ p {
 
 a {
     text-decoration: none;
-    color: black
+    color: black;
+    font-size: 14px;
 }
 
 .top-content {
@@ -323,5 +324,9 @@ footer nav a {
     padding: 10px 20px;
     border: 2px solid black;
     border-radius: 8px;
-    font-size: 20px;
+    font-size: 16px;
+}
+
+.about-bottom-section {
+    margin: 30px;
 }

@@ -1,0 +1,15 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+HTML needs to be written in a way that adds meaning to the presentation. This will help knowing the importance and structure of the emelemts in the project you are building.
+
+Name two big differences between display: block; and display: inline;.
+1. Display block always starts a new line.
+2. Inline will only take up as much width as necessary.
+
+What are the 4 areas of the box model?
+Element, Padding, border, margin
+
+While using flexbox, what axis does the following property work on: align-items: center?
+Cross Axis 
+
+Explain why git is valuable to a team of developers.
+Git allows many people to work on the same project at the same time without intefering with each others code. It also allows for version control. 
